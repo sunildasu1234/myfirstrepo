@@ -1,0 +1,1 @@
+Added logout feature
